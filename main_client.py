@@ -46,7 +46,7 @@ while True:
     time.sleep(3)
     
     run = input("Do you want to continue transfering files? (Y/n)")
-    if run == "Y" or "" or "y":
+    if run == "Y" or "y":
         pass
     else: 
         print("Terminating connection.")
