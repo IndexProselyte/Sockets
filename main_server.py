@@ -5,7 +5,7 @@ import tkinter as tk
 #Bind it to a static ip and the open port
 s = socket.socket()
 print("Socket Created")
-s.bind(("192.168.0.103", 80))
+s.bind(("YOUR IP", YOUR PORT))
 
 s.listen(3)
 print("Waiting for connections")
