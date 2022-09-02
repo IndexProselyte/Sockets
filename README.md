@@ -5,6 +5,6 @@ I plan to add ssh into this in the future.
 For this to work you will need to port forward your router.
 And connect with the WAN ip not the local one.
 
-If you have any suggestions/questions or death threats, you can send them here: amon#0691
+If you have any suggestions/questions or death threats, you can send them here: owo
 
 (btw havent tested this thru the WAN connection so it might not work)
